@@ -1,0 +1,17 @@
+{
+    "name": "imanborumand/multi-otp",
+    "description": "A Laravel package to send a one-time password with the ability to send by email or SMS!",
+
+    "autoload": {
+        "psr-4": {
+            "Imanborumand\\MultiOtp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iman Borumand Zadeh",
+            "email": "imanborumand@gmail.com"
+        }
+    ],
+    "require": {}
+}
